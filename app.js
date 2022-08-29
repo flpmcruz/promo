@@ -21,6 +21,9 @@ app.set('view engine', 'ejs');
 
 //Estableciendo las rutas
 app.use('/', Router);
+app.use('*', (req,res)=>{
+    res.status(404).render('404');
+});
 
 app.listen('3000', (req, res)=>{
     console.log('Server Running on Port ' + '3000');

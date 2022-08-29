@@ -1456,3 +1456,9 @@ a {
   background-color: transparent;
   margin-bottom: 0;
 }
+
+.footer404 {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
