@@ -47,6 +47,7 @@ class footer extends HTMLElement{
                             <li class="foot-menu-item mbr-fonts-style display-7"><a class="text-white text-primary" href="sobre-nosotros">Sobre Nosotros</a></li>
                             <li class="foot-menu-item mbr-fonts-style display-7"><a class="text-white text-primary" href="nuestras-creencias">Nuestras Creencias</a></li>
                             <li class="foot-menu-item mbr-fonts-style display-7"><a class="text-white text-primary" href="mailto:info@site.com">Contáctenos</a></li>
+                            <li class="foot-menu-item mbr-fonts-style display-7"><a class="text-white text-primary" href="pagos">Pagos</a></li>
                         </ul>
                     </div>
                     <div class="row social-row">

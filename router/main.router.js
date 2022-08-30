@@ -14,4 +14,8 @@ router.get('/nuestras-creencias', (req,res)=>{
     res.render('nuestras_creencias');
 });
 
+router.get('/pagos', (req,res)=>{
+    res.render('payment');
+});
+
 module.exports = router;
